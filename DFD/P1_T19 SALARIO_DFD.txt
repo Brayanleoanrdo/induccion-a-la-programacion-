@@ -1,0 +1,48 @@
+? Dfd ?? (c)
+1
+1
+1
+0
+0
+4
+1
+84
+"maker: Brayan munoz       determines an employee's salary "
+4
+1
+42
+"Enter the value of the employee's salary"
+5
+1
+6
+salary
+4
+1
+39
+"Enter the number of days I work"
+5
+1
+4
+days
+7
+0
+1
+29
+salary <0 or days <0 or days> 30
+6
+1
+7
+salary
+sixteen
+(salary / 30) * days
+4
+1
+fifty
+"The salary of the employee in a month is", salary
+13
+4
+1
+85
+"ERROR: the salary cannot be less than 0 and the days must be between 1 and 30"
+13
+1
