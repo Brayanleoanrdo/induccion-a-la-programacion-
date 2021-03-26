@@ -1,0 +1,71 @@
+? Dfd ?? (c)
+1
+1
+1
+0
+0
+4
+1
+140
+"maker: brayan munoz         This program is used to determine how many passengers were transported, how much money was obtained and the route of the bus"
+5
+1
+10
+Npassengers
+4
+1
+32
+"Enter the number of passengers"
+5
+1
+8
+Nstops
+4
+1
+30
+"Enter the number of stops"
+6
+1
+fifteen
+total_passengers
+1
+0
+8
+1
+1
+I
+1
+1
+1
+1
+8
+Nstops
+1
+1
+1
+4
+1
+31
+"The number of passengers is:", i
+5
+1
+9
+passengers
+6
+1
+fifteen
+total_passengers
+25
+total_passengers + passengers
+10
+6
+1
+12
+total_money
+19
+total_passengers * 150
+4
+1
+fifty
+"The total money collected is:", total_dinero
+1
