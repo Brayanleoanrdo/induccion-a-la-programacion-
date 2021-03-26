@@ -1,0 +1,78 @@
+? Dfd ?? (c)
+1
+1
+1
+0
+0
+4
+1
+105  
+"software_ages from child to old                         maker: brayan munoz                   This program determines according to age, if it is a child, a teenager, an adult, an old man or a matusalen"
+4
+1
+17
+"Enter age"
+5
+1
+4
+Age
+7
+0
+1
+7
+Age <= 0
+7
+0
+1
+6
+Age <6
+7
+0
+1
+7
+Age <18
+7
+0
+1
+7
+Age <45
+7
+0
+1
+7
+Age <90
+4
+1
+30
+"This person is a matusalen"
+13
+4
+1
+28
+"This person is an old man"
+13
+13
+4
+1
+27
+"This person is an adult"
+13
+13
+4
+1
+32
+"This person is a teenager"
+13
+13
+4
+1
+25
+"This person is a child"
+13
+13
+4
+1
+27
+"This person was not born"
+13
+1
