@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+202
+"SOFT- SUM                                                                   Maker: Brayan Muñoz                                                          this software calculate a sum by threre number"
+4
+1
+20
+"imput the number 1"
+5
+1
+9
+V_number1
+4
+1
+19
+"imput the number2"
+5
+1
+9
+V_number2
+4
+1
+19
+"imput the number3"
+5
+1
+9
+V_number3
+6
+1
+5
+V_sum
+29
+V_number1+V_number2+V_number3
+4
+1
+22
+"the sum is: " , V_sum
+1
