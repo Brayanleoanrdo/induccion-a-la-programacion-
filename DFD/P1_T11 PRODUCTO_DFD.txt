@@ -1,0 +1,61 @@
+? Dfd ?? (c)
+1
+1
+1
+0
+0
+4
+1
+49
+"software_producto             maker: brayan muñoz                     This program determines the VAT of the products"
+4
+1
+32
+"Enter the value of product1"
+5
+1
+two
+p1
+4
+1
+32
+"Enter the value of product2"
+5
+1
+two
+p2
+4
+1
+32
+"Enter the value of product3"
+5
+1
+two
+p3
+4
+1
+32
+"Enter the value of product4"
+5
+1
+two
+p4
+6
+3
+10
+total gross
+eleven
+p1 + p2 + p3 + p4
+3
+VAT
+fifteen
+gross total * 0.19
+5
+total
+14
+total gross + VAT
+4
+1
+80
+"The invoice is", "gross total", gross total, "VAT value", VAT, "total", total
+1
