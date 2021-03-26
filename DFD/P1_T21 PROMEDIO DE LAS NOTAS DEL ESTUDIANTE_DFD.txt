@@ -1,0 +1,67 @@
+? Dfd ?? (c)
+1
+1
+1
+0
+0
+4
+1
+155
+"maker: brayan munoz       This program is used to calculate the average of the final marks of the student's marks, enter the number of students"
+5
+1
+1
+North
+6
+two
+4
+sum
+1
+0
+8
+average
+1
+0
+8
+1
+1
+I
+1
+1
+1
+1
+1
+North
+1
+1
+1
+4
+1
+48
+"Enter grade 1 2 and 3 for student", i
+5
+1
+10
+N1, N2, N3
+6
+two
+5
+total
+25
+ N1 * 0.2 + N2 * 0.3 + N3 * 0.5
+4
+sum
+13
+ sum + total
+10
+6
+1
+8
+average
+6
+sum / N
+4
+1
+fifty
+"The student's grade point average is", average
+1
