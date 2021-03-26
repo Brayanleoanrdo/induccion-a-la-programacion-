@@ -1,0 +1,52 @@
+? Dfd ?? (c)
+1
+1
+1
+0
+0
+4
+1
+140
+"This program determines how many products I buy, how much was the total to pay and the value of each product"
+5
+1
+1
+North
+6
+3
+12
+total_buy
+1
+0
+14
+total_product
+1
+0
+8
+counter
+1
+0
+9
+1
+10
+N> = 500,000
+4
+1
+41
+"Enter the value of the following product"
+5
+1
+1
+North
+6
+two
+12
+total_buy
+25
+total_product + counter
+8
+counter
+12
+counter + 1
+eleven
+1
