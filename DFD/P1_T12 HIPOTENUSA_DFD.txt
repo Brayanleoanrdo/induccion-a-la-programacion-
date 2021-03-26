@@ -1,0 +1,37 @@
+? Dfd ?? (c)
+1
+1
+1
+0
+0
+4
+1
+62
+"software_hipotenusa                                         maker: brayan munoz                  This program allows you to calculate the hypotenuse of a triangle"
+4
+1
+twenty
+"Enter leg1"
+5
+1
+7
+leg1
+4
+1
+twenty
+"Enter leg2"
+5
+1
+7
+leg2
+6
+1
+10
+hypotenuse
+31
+sqrt (leg1) + (leg2 * leg2)
+4
+1
+Four. Five
+"The hypotenuse of the triangle is:", hypotenuse
+1
