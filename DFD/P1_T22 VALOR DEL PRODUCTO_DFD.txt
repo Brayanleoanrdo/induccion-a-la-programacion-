@@ -1,0 +1,75 @@
+? Dfd ?? (c)
+1
+1
+1
+0
+0
+4
+1
+116
+"maker: brayan munoz                     This program is used to calculate the gross value and the total value of your products"
+5
+1
+1
+North
+6
+3
+10
+gross value
+1
+0
+3
+VAT
+1
+0
+10
+total value
+1
+0
+8
+1
+1
+I
+1
+1
+1
+1
+1
+North
+1
+1
+1
+4
+1
+43
+"Enter the value of product number", i
+5
+1
+13
+product value
+6
+1
+10
+gross value
+27
+ gross value + product value
+10
+6
+two
+3
+VAT
+sixteen
+ gross value * 0.19
+10
+total value
+17
+ gross value + VAT
+4
+1
+134
+"The gross value of your purchase is:", gross value, "
+
+The total VAT of the product is: ", VAT,"
+
+The total value of the product is: ", valortotal
+1
