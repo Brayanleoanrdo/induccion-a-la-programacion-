@@ -1,0 +1,84 @@
+? Dfd ?? (c)
+1
+1
+1
+0
+0
+4
+1
+184
+"Mker: brayan muñoz                          This program is used to calculate the average salary the total salary and the highest salary of an employee insert the salary of the first worker"
+5
+1
+1
+North
+6
+3
+14
+average salary
+1
+0
+12
+total salary
+1
+0
+14
+higher_ salary
+1
+0
+8
+1
+1
+I
+1
+1
+1
+1
+1
+North
+1
+1
+1
+4
+1
+67
+"Enter the salary and days worked for employee number 1"
+5
+1
+13
+salary, day
+6
+two
+6
+salary
+17
+(salary / 30) * day
+12
+total salary
+twenty-one
+total_salary + salary
+7
+0
+1
+2. 3
+salary> higher_ salary
+13
+6
+1
+14
+higher_ salary
+6
+salary
+13
+10
+6
+1
+14
+average salary
+14
+salary_total / N
+4
+1
+131
+"Total salary is:", total_salary, "average salary is:", average_salary, "and highest salary is:", maximum_salary
+1
