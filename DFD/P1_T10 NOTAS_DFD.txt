@@ -1,0 +1,64 @@
+? Dfd ?? (c)
+1
+1
+1
+0
+0
+4
+1
+fifty
+"software_notas                                   maker: Brayan Muñoz                                 This program calculates the final grade for the semester"
+4
+1
+42
+"Enter the first note worth 20%"
+5
+1
+two
+n1
+4
+1
+42
+"Enter the second note worth 25%"
+5
+1
+two
+n2
+4
+1
+42
+"Enter the third note worth 25%"
+5
+1
+two
+n3
+4
+1
+41
+"Enter the fourth note worth 30%"
+5
+1
+two
+n4
+7
+0
+1
+60
+n1 <0 or n1> 5 or n2 <0 or n2> 5 or n3 <0 or n3> 5 or n4 <0 or n4> 5
+6
+1
+5
+total
+29
+n1 * 0.2 + n2 * 0.25 + n3 * 0.25 + n4 * 0.3
+4
+1
+41
+"The student's final grade is:", total
+13
+4
+1
+48
+"Semester grades cannot be <0 or> 5"
+13
+1
