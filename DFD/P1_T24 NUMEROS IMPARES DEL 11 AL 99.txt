@@ -1,0 +1,42 @@
+? Dfd ?? (c)
+1
+1
+1
+0
+0
+4
+1
+121
+"MAKER: brayan munoz    This program is used to determine which numbers are odd from 11 to 99"
+8
+1
+1
+I
+1
+two
+eleven
+1
+two
+99
+1
+1
+two
+6
+1
+7
+residue
+7
+I mod 2
+7
+0
+1
+9
+remainder = 1
+13
+4
+1
+29
+"The odd numbers are:", i
+13
+10
+1
