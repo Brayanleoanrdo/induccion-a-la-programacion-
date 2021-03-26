@@ -1,0 +1,63 @@
+? Dfd ?? (c)
+1
+1
+1
+0
+0
+4
+1
+89
+"software_edades                                     maker: Brayan Muñoz                                               In this program the date of birth of two people is requested and determines who is the oldest"
+4
+1
+54
+"Enter the date of birth of the first person"
+5
+1
+12
+year_person1
+4
+1
+54
+"Enter the date of birth of the second person"
+5
+1
+12
+year_person2
+6
+two
+4
+age1
+17
+2020-year_person1
+4
+age2
+17
+2020-year_person2
+7
+0
+1
+9
+age1 = age2
+7
+0
+1
+9
+age1> age2
+4
+1
+32
+"The oldest person is the second"
+13
+4
+1
+32
+"The oldest person is the first"
+13
+13
+4
+1
+43
+"The two people were born in the same year"
+13
+1
