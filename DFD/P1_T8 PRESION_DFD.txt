@@ -1,0 +1,86 @@
+  
+? Dfd ?? (c)
+1
+1
+1
+0
+0
+4
+1
+40   
+"software_presion                            maker: Brayan Muñoz                         Determine systolic pressure index"
+4
+1
+54
+"Enter the patient's systolic pressure index"
+5
+1
+7
+Pressure
+7
+0
+1
+10
+press <= 0
+7
+0
+1
+eleven
+pressure <= 64
+7
+0
+1
+12
+pressure <= 120
+7
+0
+1
+eleven
+120> pressure
+7
+0
+1
+12
+pressure <= 159
+7
+0
+1
+eleven
+pressure> 160
+13
+4
+1
+42
+"Wrong data if the value is less than 160"
+13
+13
+4
+1
+35
+"The patient suffers from hypertension"
+13
+13
+4
+1
+38
+"The patient suffers from prehypertension"
+13
+13
+4
+1
+22
+"His pressure is normal"
+13
+13
+4
+1
+28
+"you suffer from hypotension"
+13
+13
+4
+1
+58
+"Wrong data the pressure must have a value greater than 0"
+13
+1
