@@ -1,0 +1,40 @@
+? Dfd ?? (c)
+1
+1
+1
+0
+0
+4
+1
+86
+"software_numeros odd and inpares                          maker: brayan munoz                    This program was created by Juan David Neira: it determines if the number is even or odd"
+4
+1
+19
+"Enter the number"
+5
+1
+3
+num
+6
+1
+7
+residue
+9
+num mod 2
+7
+0
+1
+9
+Residual = 0
+4
+1
+27
+"The number", num, "is odd"
+13
+4
+1
+25
+"The number", num, "is even"
+13
+1
