@@ -1,0 +1,56 @@
+? Dfd ?? (c)
+1
+1
+1
+0
+0
+4
+1
+92
+"Software_mayor de tres numbers                          makler: brayan munoz                       This application was created by Juan David Neira: allows you to calculate the value of three numbers"
+4
+1
+18
+"Enter the value"
+5
+1
+7
+A B C
+7
+0
+1
+eleven
+A = B and A = C
+7
+0
+1
+eleven
+A> B and A> C
+7
+0
+1
+eleven
+B> A and B> C
+4
+1
+sixteen
+"The greatest is", C
+13
+4
+1
+sixteen
+"The oldest is", B
+13
+13
+4
+1
+sixteen
+"The oldest is", A
+13
+13
+4
+1
+13
+"They are equal"
+13
+1
