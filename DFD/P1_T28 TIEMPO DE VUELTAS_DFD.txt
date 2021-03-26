@@ -1,0 +1,100 @@
+? Dfd ?? (c)
+1
+1
+1
+0
+0
+4
+1
+152
+"This program determines the time of each lap the average the number of laps and the best time of an athlete"
+6
+3
+5
+tired
+1
+0
+8
+best_lap
+1
+0
+9
+total_lap
+1
+0
+6
+1
+8
+sum_time
+1
+0
+9
+1
+7
+tired = 0
+6
+1
+9
+total_lap
+13
+turns_total + 1
+4
+1
+43
+"Enter the lap time", total_lap
+5
+1
+4
+weather
+6
+1
+8
+sum_time
+sixteen
+ sum_time + time
+7
+0
+1
+eleven
+turns_total = 1
+7
+0
+1
+13
+best_lap <time
+13
+6
+1
+9
+best time
+4
+weather
+13
+13
+6
+1
+8
+best_lap
+4
+weather
+13
+4
+1
+52
+"Are you tired? Enter 1 for yes and 0 for no"
+5
+1
+5
+tired
+eleven
+6
+1
+7
+average
+18
+sum_time / total_lap
+4
+1
+109
+"His best time was:", best_lap, "his total laps was:", total_lap, "and his average time was:", average
+1
