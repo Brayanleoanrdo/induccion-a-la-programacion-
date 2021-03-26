@@ -1,0 +1,67 @@
+? Dfd ?? (c)
+1
+1
+1
+0
+0
+4
+1
+137
+"maker: brayan munoz          this program is used to add the amount of numbers you want and make the average of these numbers"
+6
+two
+4
+sum
+1
+0
+8
+average
+1
+0
+5
+1
+1
+North
+8
+1
+1
+I
+1
+1
+0
+1
+1
+North
+1
+1
+1
+4
+1
+32
+"Enter the value of the number", i
+5
+1
+6
+number
+6
+1
+4
+sum
+14
+ sum + number
+10
+6
+1
+8
+average
+6
+sum / N
+4
+1
+18
+"The sum is", sum
+4
+1
+24
+"The average is", sum / N
+1
