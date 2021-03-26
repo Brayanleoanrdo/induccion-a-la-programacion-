@@ -1,0 +1,336 @@
+? Dfd ?? (c)
+1
+1
+6
+0
+0
+12
+1
+6
+P_MENU
+1
+8
+O_OPTION
+9
+1
+12
+O_OPTION! = 0
+7
+0
+1
+10
+OPTION_O = 1
+7
+0
+1
+10
+OPTION_O = 2
+7
+0
+1
+10
+OPTION_O = 3
+7
+0
+1
+10
+OPTION_O = 4
+13
+12
+1
+10
+P_DIVISION
+0
+13
+13
+12
+1
+sixteen
+P_MULTIPLICATION
+0
+13
+13
+12
+1
+7
+P_RESTA
+0
+13
+13
+12
+1
+6
+P_SUMA
+0
+13
+12
+1
+6
+P_MENU
+1
+8
+O_OPTION
+eleven
+1
+two
+1
+6
+P_MENU
+1
+8
+O_OPTION
+1
+106
+This program generates a menu where the calculator options are displayed and it returns an option
+4
+1
+210
+"This program simulates a calculator and was created by Brayan munoz
+
+1. To sum
+
+2. For subtraction
+
+3. For multiplication
+
+4. For division
+
+0. To exit
+
+------------ Enter an option --------------- "
+5
+1
+8
+O_OPTION
+3
+two
+1
+6
+P_SUMA
+0
+1
+54
+This subprogram allows to calculate the sum of N numbers
+4
+1
+56
+"SUM: enter the number of numbers to be added"
+5
+1
+1
+North
+6
+1
+4
+SUM
+1
+0
+8
+1
+1
+I
+1
+1
+1
+1
+1
+North
+1
+1
+1
+4
+1
+32
+"Enter the value of the number", i
+5
+1
+3
+num
+6
+1
+4
+SUM
+10
+SUM + num
+10
+4
+1
+3. 4
+"The sum of the numbers is:", SUM
+3
+two
+1
+7
+P_RESTA
+0
+1
+62
+This subprogram allows you to calculate the subtraction of N numbers
+4
+1
+58
+"SUBTRACT: enter the number of numbers to be subtracted"
+5
+1
+1
+North
+6
+1
+5
+SUBTRACTION
+1
+0
+8
+1
+1
+I
+1
+1
+1
+1
+1
+North
+1
+1
+1
+4
+1
+32
+"Enter the value of the number", i
+5
+1
+3
+num
+7
+0
+1
+3
+i = 1
+6
+1
+5
+SUBTRACTION
+eleven
+SUBTRACT - num
+13
+6
+1
+5
+SUBTRACTION
+3
+num
+13
+10
+4
+1
+36
+"The subtraction of the numbers is:", SUBTRACT
+3
+two
+1
+sixteen
+P_MULTIPLICATION
+0
+1
+43
+This program allows multiplying N numbers
+4
+1
+69
+"MULTIPLICATION: enter the number of numbers to multiply"
+5
+1
+1
+North
+6
+1
+5
+total
+1
+0
+8
+1
+1
+I
+1
+1
+1
+1
+1
+North
+1
+1
+1
+4
+1
+32
+"Enter the value of the number", i
+5
+1
+3
+num
+7
+0
+1
+3
+i = 1
+6
+1
+5
+total
+9
+total * num
+13
+6
+1
+5
+total
+3
+num
+13
+10
+4
+1
+42
+"The total of the multiplication is:", total
+3
+two
+1
+10
+P_DIVISION
+0
+1
+33
+This applet divides 2 numbers
+4
+1
+Four. Five
+"DIVISION: enter the dividend and divisor"
+5
+1
+18
+DIVIDEND, DIVIDER
+9
+1
+9
+DIVIDER = 0
+4
+1
+Sixty-five
+"ERROR: the divisor cannot be 0, enter a value other than 0"
+5
+1
+7
+DIVIDER
+eleven
+6
+1
+8
+DIVISION
+17
+DIVIDEND / DIVIDER
+4
+1
+69
+"The division between", DIVIDEND, "and", DIVIDER, "is equal to:", DIVISION
+3
